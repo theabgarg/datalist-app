@@ -77,6 +77,7 @@ export default function RowRadioButtonsGroup({ onChange }) {
                     color: blue[500],
                   },
                 },
+                display: "none",
               }}
             />
           }
